@@ -10,6 +10,7 @@ namespace GitTest5
     {
         static void Main(string[] args)
         {
+            Console.Write("tes");
         }
     }
 }
