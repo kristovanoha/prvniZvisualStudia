@@ -10,6 +10,7 @@ namespace GitTest6
     {
         static void Main(string[] args)
         {
+            //666
         }
     }
 }
